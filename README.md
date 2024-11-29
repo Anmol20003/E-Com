@@ -4,13 +4,13 @@ A visually appealing and fully responsive E-Commerce Website built entirely with
 
 **Features 🚀**
 
-**1. Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
-**2. Home Page**: Engaging landing page with banners and featured products.
-**3. Product Listings:** Dynamic display of products with images, descriptions, and prices.
-**4. Search Functionality:** Allows users to search for products by name or category.
-**5. Shopping Cart:** Users can add, remove, and view items in their cart dynamically.
-**6. Static Order Summary:** Simulated checkout experience with order details and totals.
-**7. Interactive Animations:** Smooth transitions and hover effects for an enhanced user experience.
+1. Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
+2. Home Page: Engaging landing page with banners and featured products.
+3. Product Listings: Dynamic display of products with images, descriptions, and prices.
+4. Search Functionality: Allows users to search for products by name or category.
+5. Shopping Cart: Users can add, remove, and view items in their cart dynamically.
+6. Static Order Summary: Simulated checkout experience with order details and totals.
+7. Interactive Animations: Smooth transitions and hover effects for an enhanced user experience.
 
 **Technologies Used 🛠️**
 
